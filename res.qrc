@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/userinfo.txt</file>
+        <file>res/studentdata.txt</file>
+    </qresource>
+</RCC>
